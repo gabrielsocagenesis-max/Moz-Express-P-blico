@@ -1,0 +1,23 @@
+MOZ EXPRESS — WEBSITE INSTITUCIONAL
+
+Conteúdo:
+- index.html
+- sobre-nos.html
+- politica-de-privacidade.html
+- termos-de-utilizacao.html
+- eliminar-conta.html
+- styles.css
+- assets/ (imagens retiradas do projecto Android fornecido)
+
+Como publicar:
+1. Extraia o ZIP.
+2. Carregue todos os ficheiros e a pasta assets para a raiz do alojamento web.
+3. Abra index.html no navegador.
+4. No Google Play Console, use o URL público de politica-de-privacidade.html como política de privacidade e o URL de eliminar-conta.html como página de pedido de eliminação.
+
+ATENÇÃO:
+- A página de eliminação prepara um email (mailto); não executa a eliminação automaticamente.
+- No código Android analisado não foi encontrada uma função de eliminação de conta. Para cumprir integralmente os requisitos da Google Play, implemente também a opção de eliminação dentro da aplicação e a eliminação dos dados associados no Firebase/backend.
+- Rever e confirmar os detalhes legais, retenção, fornecedores e práticas reais antes da publicação.
+- O website usa caminhos relativos; mantenha a estrutura de pastas ao publicar.
+Contacto: gabrielsocagenesis@gmail.com
